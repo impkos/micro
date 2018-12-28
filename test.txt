@@ -1,0 +1,4 @@
+UPDATE `nefrounion_forum`.`phpbb_users` SET user_password=md5('Q12345q') WHERE `user_id`='2';
+
+
+./client -a add -u s.v.galkin
